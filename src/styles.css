@@ -1,0 +1,14 @@
+.App {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+input{
+  padding: 0.5rem;
+  border: 2px solid black;
+  border-radius: 0.7rem;
+  width:85%;
+}
+hr{
+  border-top: 0.2rem solid gray;
+  border-radius: 0.5rem;
+}
